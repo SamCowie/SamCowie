@@ -1,4 +1,6 @@
 - Hi, I’m @SamCowie
+- University of Liverpool Graduate
+- BSc (Hons) Computer Information Systems - 1st Class
 - I’m interested in learning and growing as a developer
 - I’m currently learning JavaScript
 
